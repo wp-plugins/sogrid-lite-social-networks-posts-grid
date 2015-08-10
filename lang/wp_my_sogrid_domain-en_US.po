@@ -1,0 +1,1260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sogrid\n"
+"POT-Creation-Date: 2015-05-06 12:18+0100\n"
+"PO-Revision-Date: 2015-05-06 12:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: so-grid-main-class.php:26 includes/views/admin/pages/index.php:26
+msgid "SoGrid"
+msgstr ""
+
+#: so-grid-main-class.php:30
+msgid "Add New/Edit"
+msgstr ""
+
+#: so-grid-main-class.php:35 includes/views/admin/pages/options.php:27
+msgid "Options"
+msgstr ""
+
+#: so-grid-main-class.php:40
+msgid "Get Social Ids"
+msgstr ""
+
+#: so-grid-main-class.php:243 so-grid-main-class.php:251
+#: so-grid-main-class.php:257 so-grid-main-class.php:265
+#: so-grid-main-class.php:392 so-grid-main-class.php:398
+#: so-grid-main-class.php:406 so-grid-main-class.php:412
+#: so-grid-main-class.php:505 so-grid-main-class.php:524
+#: includes/controllers/class-wp-my-sogrid-backend-controller.php:60
+#: includes/controllers/class-wp-my-sogrid-backend-controller.php:71
+#: includes/modules/social/facebook/class.php:275
+#: includes/modules/social/facebook/class.php:301
+#: includes/modules/social/facebook/class.php:338
+#: includes/modules/social/facebook/class.php:357
+#: includes/modules/social/pinterest/class.php:157
+msgid "Error"
+msgstr ""
+
+#: so-grid-main-class.php:471
+msgid "No more results"
+msgstr ""
+
+#: so-grid-main-class.php:506
+msgid "Please make a folder "
+msgstr ""
+
+#: so-grid-main-class.php:506
+msgid " writeable by server."
+msgstr ""
+
+#: so-grid-main-class.php:525
+msgid "Please add your twitter API data in the option page !"
+msgstr ""
+
+#: so-grid-main-class.php:526
+msgid "Add API keys"
+msgstr ""
+
+#: includes/class/class-wp-my-sogrid-backend-class.php:129
+msgid "To Preview SoGrid, please save sogrid!"
+msgstr ""
+
+#: includes/class/class-wp-my-sogrid-backend-class.php:130
+#: includes/functions/functions.php:1911
+msgid "Field {1} is required !"
+msgstr ""
+
+#: includes/class/class-wp-my-sogrid-backend-class.php:131
+msgid "HEX Value"
+msgstr ""
+
+#: includes/class/class-wp-my-sogrid-table-view.php:40
+msgid "There are no saved SoGrids !"
+msgstr ""
+
+#: includes/class/class-wp-my-sogrid-table-view.php:56
+msgid "Page"
+msgstr ""
+
+#: includes/class/class-wp-my-sogrid-table-view.php:57
+msgid "Pages"
+msgstr ""
+
+#: includes/class/class-wp-my-sogrid-table-view.php:58
+msgid "Total Results"
+msgstr ""
+
+#: includes/class/class-wp-my-sogrid-table-view.php:61
+msgid "First Page"
+msgstr ""
+
+#: includes/class/class-wp-my-sogrid-table-view.php:70
+msgid "Last Page"
+msgstr ""
+
+#: includes/class/class-wp-my-sogrid-table-view.php:108
+msgid "Actions"
+msgstr ""
+
+#: includes/class/class-wp-my-sogrid-table-view.php:143
+#: includes/functions/functions.php:2573
+msgid "Edit"
+msgstr ""
+
+#: includes/class/class-wp-my-sogrid-table-view.php:147
+#: includes/functions/functions.php:2536
+msgid "Delete"
+msgstr ""
+
+#: includes/controllers/class-wp-my-sogrid-backend-controller.php:35
+msgid "You can't acces this page"
+msgstr ""
+
+#: includes/controllers/class-wp-my-sogrid-backend-controller.php:37
+msgid "Contact Administrator"
+msgstr ""
+
+#: includes/controllers/class-wp-my-sogrid-backend-controller.php:104
+msgid "Please select at least one social Network."
+msgstr ""
+
+#: includes/controllers/class-wp-my-sogrid-backend-controller.php:120
+msgid "Please select at least one social Netowrk."
+msgstr ""
+
+#: includes/controllers/class-wp-my-sogrid-backend-controller.php:137
+msgid "SoGrid has been saved !"
+msgstr ""
+
+#: includes/controllers/class-wp-my-sogrid-backend-controller.php:162
+msgid "SoGrid with this id don't exists !"
+msgstr ""
+
+#: includes/controllers/class-wp-my-sogrid-backend-controller.php:165
+msgid "SoGrid has been deleted!"
+msgstr ""
+
+#: includes/controllers/class-wp-my-sogrid-backend-controller.php:237
+#: includes/controllers/class-wp-my-sogrid-backend-controller.php:241
+msgid "Error nonce"
+msgstr ""
+
+#: includes/controllers/class-wp-my-sogrid-backend-controller.php:255
+msgid "Options has been updated !"
+msgstr ""
+
+#: includes/functions/functions.php:387
+msgid "Error Plugin can't use facebook SDK"
+msgstr ""
+
+#: includes/functions/functions.php:399
+msgid "Error getting user albums."
+msgstr ""
+
+#: includes/functions/functions.php:425
+msgid "Please Add Twitter Api details."
+msgstr ""
+
+#: includes/functions/functions.php:432 includes/functions/functions.php:439
+#: includes/functions/functions.php:443
+msgid "Error getting data."
+msgstr ""
+
+#: includes/functions/functions.php:1468
+msgid "M"
+msgstr ""
+
+#: includes/functions/functions.php:1475
+msgid "K"
+msgstr ""
+
+#: includes/functions/functions.php:1919
+msgid "Default SoGrid Title"
+msgstr ""
+
+#: includes/functions/functions.php:2533
+#: includes/views/admin/pages/search_ids.php:115
+#: includes/views/admin/pages/search_ids.php:206
+#: includes/views/admin/pages/search_ids.php:276
+#: includes/views/admin/pages/search_ids.php:345
+#: includes/views/admin/pages/search_ids.php:421
+#: includes/views/admin/pages/search_ids.php:513
+#: includes/views/admin/pages/search_ids.php:545
+msgid "ID"
+msgstr ""
+
+#: includes/functions/functions.php:2534
+#: includes/views/admin/pages/search_ids.php:205
+#: includes/views/admin/pages/search_ids.php:420
+#: includes/views/admin/pages/search_ids.php:546
+msgid "Name"
+msgstr ""
+
+#: includes/functions/functions.php:2535
+msgid "Shortcode"
+msgstr ""
+
+#: includes/functions/general-options.php:22
+msgid "Normal"
+msgstr ""
+
+#: includes/functions/general-options.php:23
+msgid "Italic"
+msgstr ""
+
+#: includes/functions/general-options.php:24
+msgid "Oblique"
+msgstr ""
+
+#: includes/functions/general-options.php:49
+msgid "Dynamic Grid"
+msgstr ""
+
+#: includes/functions/general-options.php:50
+msgid ""
+"Plugin will order posts by default pattern, All Box are enabled Title ,Text "
+"etc. you can't change that options. "
+msgstr ""
+
+#: includes/functions/general-options.php:58
+msgid "Random Order"
+msgstr ""
+
+#: includes/functions/general-options.php:59
+msgid "Off value order by date, On value random order"
+msgstr ""
+
+#: includes/functions/general-options.php:67
+msgid "Dynamic loading"
+msgstr ""
+
+#: includes/functions/general-options.php:68
+msgid ""
+"Dynamic loading allows to load posts when users scrolls to the bottom of a "
+"page."
+msgstr ""
+
+#: includes/functions/general-options.php:73
+msgid "Animate  SoGrid on scroll"
+msgstr ""
+
+#: includes/functions/general-options.php:74
+msgid "When user scrolls down animate elements."
+msgstr ""
+
+#: includes/functions/general-options.php:79
+msgid "Enable scroll image when they are higher than container"
+msgstr ""
+
+#: includes/functions/general-options.php:80
+msgid "Enable scroll images."
+msgstr ""
+
+#: includes/functions/general-options.php:98
+msgid "Twitter Id"
+msgstr ""
+
+#: includes/functions/general-options.php:99
+msgid "Your Twitter Id"
+msgstr ""
+
+#: includes/functions/general-options.php:107
+msgid "Consumer Key"
+msgstr ""
+
+#: includes/functions/general-options.php:108
+msgid "Your Twitter API Consumer key"
+msgstr ""
+
+#: includes/functions/general-options.php:116
+msgid "Consumer Secret "
+msgstr ""
+
+#: includes/functions/general-options.php:117
+msgid "Your Twitter API Consumer secret key"
+msgstr ""
+
+#: includes/functions/general-options.php:125
+msgid "Oauth API Access Token"
+msgstr ""
+
+#: includes/functions/general-options.php:126
+msgid "Your Twitter API Access Token"
+msgstr ""
+
+#: includes/functions/general-options.php:134
+msgid "OAuth API Secret Access Token"
+msgstr ""
+
+#: includes/functions/general-options.php:135
+msgid "Your Twitter API Secret Access Token"
+msgstr ""
+
+#: includes/functions/general-options.php:143
+msgid "Google Api key"
+msgstr ""
+
+#: includes/functions/general-options.php:144
+msgid ""
+"This key will be used to all Google plus Sogrids, you can change API key in "
+"SoGrid edit panel."
+msgstr ""
+
+#: includes/functions/general-options.php:153
+msgid "Google Client ID"
+msgstr ""
+
+#: includes/functions/general-options.php:154
+#: includes/functions/general-options.php:164
+msgid "This key will be used to like dislike Youtube Videos."
+msgstr ""
+
+#: includes/functions/general-options.php:163
+msgid "Google Client Secret"
+msgstr ""
+
+#: includes/functions/general-options.php:173
+msgid "Instagram Client ID"
+msgstr ""
+
+#: includes/functions/general-options.php:174
+#: includes/functions/general-options.php:183
+msgid "This key will be used to insagram api cals."
+msgstr ""
+
+#: includes/functions/general-options.php:182
+msgid "Instagram Client Secret"
+msgstr ""
+
+#: includes/functions/general-options.php:191
+msgid "Facebook App Key"
+msgstr ""
+
+#: includes/functions/general-options.php:192
+msgid "This key will be used to call GRAPH api."
+msgstr ""
+
+#: includes/functions/general-options.php:200
+msgid "Facebook App Id"
+msgstr ""
+
+#: includes/functions/general-options.php:201
+msgid "This ID will be used to call GRAPH api."
+msgstr ""
+
+#: includes/functions/general-options.php:234
+msgid "Id"
+msgstr ""
+
+#: includes/functions/general-options.php:243
+msgid "Maximum Results"
+msgstr ""
+
+#: includes/functions/general-options.php:249
+msgid "Limit results by date"
+msgstr ""
+
+#: includes/functions/general-options.php:255
+msgid "Limit days"
+msgstr ""
+
+#: includes/functions/general-options.php:264
+msgid "Enable Intro (Image,Date)"
+msgstr ""
+
+#: includes/functions/general-options.php:271
+msgid "Enable Thumb"
+msgstr ""
+
+#: includes/functions/general-options.php:276
+msgid "Enable Intro Title"
+msgstr ""
+
+#: includes/functions/general-options.php:281
+msgid "Enable Text"
+msgstr ""
+
+#: includes/functions/general-options.php:286
+msgid "Share"
+msgstr ""
+
+#: includes/modules/form/views/color_picker.php:9
+msgid "Select Color"
+msgstr ""
+
+#: includes/modules/form/views/color_picker.php:10
+msgid "Close"
+msgstr ""
+
+#: includes/modules/form/views/on_off.php:4
+msgid "On"
+msgstr ""
+
+#: includes/modules/form/views/on_off.php:5
+msgid "Off"
+msgstr ""
+
+#: includes/modules/front/views/facebook.php:96
+#: includes/modules/front/views/facebook.php:107
+#: includes/modules/front/views/pinterest.php:120
+msgid "View item"
+msgstr ""
+
+#: includes/modules/front/views/facebook.php:241
+msgid "SHARE"
+msgstr ""
+
+#: includes/modules/front/views/facebook.php:247
+msgid "COMMENTS"
+msgstr ""
+
+#: includes/modules/front/views/sogrid.php:25
+msgid "Api errors"
+msgstr ""
+
+#: includes/modules/front/views/sogrid.php:37
+msgid "Error for a id - "
+msgstr ""
+
+#: includes/modules/front/views/sogrid.php:48
+msgid "There are no API errors !"
+msgstr ""
+
+#: includes/modules/front/views/sogrid.php:69
+msgid "Loading more ...  "
+msgstr ""
+
+#: includes/modules/front/views/sogrid.php:72
+msgid "Video Preview"
+msgstr ""
+
+#: includes/modules/front/views/sogrid.php:76
+msgid "Loading ...  "
+msgstr ""
+
+#: includes/modules/front/views/youtube.php:137
+msgid "Views"
+msgstr ""
+
+#: includes/modules/social/info.php:7
+msgid "Google+"
+msgstr ""
+
+#: includes/modules/social/info.php:8
+msgid "Google Plus module for fetching google plus posts."
+msgstr ""
+
+#: includes/modules/social/info.php:12
+#: includes/views/admin/pages/search_ids.php:181
+msgid "Facebook"
+msgstr ""
+
+#: includes/modules/social/info.php:13
+msgid "Getting facebook page postx."
+msgstr ""
+
+#: includes/modules/social/info.php:18
+#: includes/views/admin/pages/search_ids.php:414
+msgid "Twitter"
+msgstr ""
+
+#: includes/modules/social/info.php:19
+msgid "Getting twitter items by user,list or search."
+msgstr ""
+
+#: includes/modules/social/info.php:24
+msgid "Pinterest"
+msgstr ""
+
+#: includes/modules/social/info.php:25
+msgid "Getting pinterest posts from profile."
+msgstr ""
+
+#: includes/modules/social/info.php:30
+#: includes/views/admin/pages/search_ids.php:339
+msgid "Youtube"
+msgstr ""
+
+#: includes/modules/social/info.php:31
+msgid "Getting youtube posts."
+msgstr ""
+
+#: includes/modules/social/info.php:36
+#: includes/views/admin/pages/search_ids.php:504
+msgid "Instagram"
+msgstr ""
+
+#: includes/modules/social/info.php:37
+msgid "Getting instagram posts."
+msgstr ""
+
+#: includes/modules/social/facebook/class.php:180
+#: includes/modules/social/facebook/class.php:225
+msgid "Api error"
+msgstr ""
+
+#: includes/modules/social/facebook/class.php:254
+#: includes/modules/social/google/class.php:126
+#: includes/modules/social/instagram/class.php:88
+#: includes/modules/social/pinterest/class.php:118
+#: includes/modules/social/twitter/class.php:101
+#: includes/modules/social/twitter/class.php:154
+#: includes/modules/social/youtube/class.php:184
+msgid "Network Error"
+msgstr ""
+
+#: includes/modules/social/facebook/class.php:274
+#: includes/modules/social/facebook/class.php:300
+#: includes/modules/social/facebook/class.php:337
+#: includes/modules/social/facebook/class.php:356
+#: includes/modules/social/google/class.php:142
+#: includes/modules/social/google/class.php:163
+#: includes/modules/social/google/class.php:169
+#: includes/modules/social/pinterest/class.php:156
+#: includes/modules/social/youtube/class.php:200
+#: includes/modules/social/youtube/class.php:243
+#: includes/modules/social/youtube/class.php:249
+msgid "Api Error"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:25
+#: includes/modules/social/google/options.php:22
+#: includes/modules/social/instagram/options.php:22
+#: includes/modules/social/pinterest/options.php:25
+#: includes/modules/social/twitter/options.php:24
+#: includes/modules/social/youtube/options.php:24
+msgid "Enable Border"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:31
+#: includes/modules/social/google/options.php:27
+#: includes/modules/social/instagram/options.php:27
+#: includes/modules/social/pinterest/options.php:31
+#: includes/modules/social/twitter/options.php:29
+#: includes/modules/social/youtube/options.php:29
+msgid "Box Border Color"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:36
+#: includes/modules/social/google/options.php:32
+#: includes/modules/social/instagram/options.php:32
+#: includes/modules/social/pinterest/options.php:36
+#: includes/modules/social/twitter/options.php:34
+#: includes/modules/social/youtube/options.php:34
+msgid "Box Background Color"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:41
+#: includes/modules/social/google/options.php:37
+#: includes/modules/social/twitter/options.php:39
+#: includes/modules/social/youtube/options.php:39
+msgid "Share box background Color"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:46
+#: includes/modules/social/twitter/options.php:44
+msgid "Icon Color"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:51
+#: includes/modules/social/google/options.php:43
+#: includes/modules/social/instagram/options.php:43
+#: includes/modules/social/twitter/options.php:49
+msgid "Date Color"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:56
+#: includes/modules/social/google/options.php:48
+#: includes/modules/social/pinterest/options.php:56
+#: includes/modules/social/youtube/options.php:50
+msgid "Title Font"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:66
+#: includes/modules/social/google/options.php:58
+#: includes/modules/social/pinterest/options.php:66
+#: includes/modules/social/youtube/options.php:60
+msgid "Title Color"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:72
+#: includes/modules/social/google/options.php:64
+#: includes/modules/social/instagram/options.php:65
+#: includes/modules/social/twitter/options.php:70
+msgid "Text Font"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:82
+#: includes/modules/social/google/options.php:74
+#: includes/modules/social/instagram/options.php:75
+#: includes/modules/social/twitter/options.php:80
+msgid "Text Color"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:87
+#: includes/modules/social/google/options.php:79
+#: includes/modules/social/twitter/options.php:85
+msgid "Share Link Color"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:92
+#: includes/modules/social/google/options.php:84
+#: includes/modules/social/twitter/options.php:90
+msgid "Share Hover Color"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:97
+#: includes/modules/social/google/options.php:99
+#: includes/modules/social/twitter/options.php:117
+#: includes/modules/social/youtube/options.php:108
+msgid "Share Line Color"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:117
+#: includes/modules/social/google/options.php:109
+#: includes/modules/social/twitter/options.php:122
+msgid "Link Color"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:122
+#: includes/modules/social/google/options.php:114
+#: includes/modules/social/twitter/options.php:127
+msgid "Link Hover Color"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:142
+msgid ""
+"Enter Facebook Page ID ,or / and gallery ID.Enter multiple IDs separated by "
+"commas."
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:143
+msgid "Call Api with max results parametar, max results for facebook is 250."
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:144
+#: includes/modules/social/google/options.php:136
+#: includes/modules/social/instagram/options.php:139
+#: includes/modules/social/pinterest/options.php:174
+#: includes/modules/social/twitter/options.php:149
+#: includes/modules/social/youtube/options.php:148
+msgid "Limit results to last n days."
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:145
+#: includes/modules/social/google/options.php:137
+#: includes/modules/social/instagram/options.php:140
+#: includes/modules/social/pinterest/options.php:175
+#: includes/modules/social/twitter/options.php:150
+#: includes/modules/social/youtube/options.php:149
+msgid "Limit results to items published before x days."
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:146
+msgid "Enable Facebook image and date "
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:147
+msgid "Show Facebook thumb"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:148
+msgid "Show Facenook post title"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:149
+#: includes/modules/social/pinterest/options.php:179
+msgid "Show Facebook plus text"
+msgstr ""
+
+#: includes/modules/social/facebook/options.php:150
+#: includes/modules/social/google/options.php:142
+#: includes/modules/social/instagram/options.php:145
+#: includes/modules/social/twitter/options.php:154
+#: includes/modules/social/youtube/options.php:154
+msgid "Share item on twitter,facebook,google+"
+msgstr ""
+
+#: includes/modules/social/google/options.php:12
+msgid "Google Plus API Key"
+msgstr ""
+
+#: includes/modules/social/google/options.php:15
+msgid "Google Plus API Key get from http://console.goolge.com/"
+msgstr ""
+
+#: includes/modules/social/google/options.php:89
+msgid "Share Button Background Color"
+msgstr ""
+
+#: includes/modules/social/google/options.php:94
+msgid "Share Button Border Color"
+msgstr ""
+
+#: includes/modules/social/google/options.php:134
+msgid "Enter your Google + profile ID.Enter multiple IDs separated by commas."
+msgstr ""
+
+#: includes/modules/social/google/options.php:135
+msgid ""
+"Call Api with max results parametar,Google API max results is 500 posts."
+msgstr ""
+
+#: includes/modules/social/google/options.php:138
+#: includes/modules/social/instagram/options.php:141
+#: includes/modules/social/youtube/options.php:150
+msgid "Enable google plus image and date "
+msgstr ""
+
+#: includes/modules/social/google/options.php:139
+#: includes/modules/social/instagram/options.php:142
+#: includes/modules/social/youtube/options.php:151
+msgid "Show Google plus thumb"
+msgstr ""
+
+#: includes/modules/social/google/options.php:140
+#: includes/modules/social/instagram/options.php:143
+#: includes/modules/social/youtube/options.php:152
+msgid "Show Google plus post title"
+msgstr ""
+
+#: includes/modules/social/google/options.php:141
+#: includes/modules/social/instagram/options.php:144
+#: includes/modules/social/youtube/options.php:153
+msgid "Show Google plus text"
+msgstr ""
+
+#: includes/modules/social/instagram/class.php:102
+msgid "API Error"
+msgstr ""
+
+#: includes/modules/social/instagram/options.php:137
+msgid ""
+"Add ! and user id.Add ? and lat/long/distance where lat is latitude long is "
+"longitude and distance is max 5000.Add # and tag.Add @ and location.Add "
+"multiple IDs separated by commas."
+msgstr ""
+
+#: includes/modules/social/instagram/options.php:138
+msgid "Call Api with max results parametar."
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:41
+msgid "Autor box background Color"
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:127
+msgid "Show author Box"
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:128
+msgid "Show author box"
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:133
+msgid "Pinterest numbers Color"
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:138
+msgid "Author Box Border Color"
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:143
+msgid "Author Box Name Color"
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:148
+msgid "Author Box Board Color"
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:153
+msgid "Author Box Board Hover Color"
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:172
+msgid ""
+"Enter pinterest username or username/boradname for boards.Enter multiple "
+"users separated by commas."
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:173
+msgid "Call Api with max results parametar, max results for pinterest is 50."
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:176
+msgid "Enable Pintrest count of repins and favorite count. "
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:177
+msgid "Show Pinterest thumb"
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:178
+msgid "Show Pinterest post title"
+msgstr ""
+
+#: includes/modules/social/pinterest/options.php:180
+msgid "Share item on pinterest "
+msgstr ""
+
+#: includes/modules/social/twitter/class.php:121
+#: includes/modules/social/twitter/class.php:148
+msgid "API error"
+msgstr ""
+
+#: includes/modules/social/twitter/options.php:9
+msgid "Include retweets"
+msgstr ""
+
+#: includes/modules/social/twitter/options.php:11
+msgid "If you want to include rewteets in SoGrid check this option"
+msgstr ""
+
+#: includes/modules/social/twitter/options.php:15
+msgid "Include replies"
+msgstr ""
+
+#: includes/modules/social/twitter/options.php:17
+msgid "If you want to include replies check this option"
+msgstr ""
+
+#: includes/modules/social/twitter/options.php:95
+msgid "Share Numbers Color"
+msgstr ""
+
+#: includes/modules/social/twitter/options.php:101
+msgid "Share Icon Color"
+msgstr ""
+
+#: includes/modules/social/twitter/options.php:147
+msgid ""
+"Enter a twitter username without @ or enter /with list id,or enter # with "
+"search term."
+msgstr ""
+
+#: includes/modules/social/twitter/options.php:148
+msgid "Call Api with max results parametar"
+msgstr ""
+
+#: includes/modules/social/twitter/options.php:151
+msgid "Enable twitter image and date"
+msgstr ""
+
+#: includes/modules/social/twitter/options.php:152
+msgid "Show Twitter thumb"
+msgstr ""
+
+#: includes/modules/social/twitter/options.php:153
+msgid "Show Twitter text"
+msgstr ""
+
+#: includes/modules/social/youtube/my_like_dislike.php:50
+msgid "Like / Dislike Youtube Video"
+msgstr ""
+
+#: includes/modules/social/youtube/my_like_dislike.php:93
+#: includes/modules/social/youtube/my_like_dislike.php:152
+msgid "You have liked video"
+msgstr ""
+
+#: includes/modules/social/youtube/my_like_dislike.php:95
+#: includes/modules/social/youtube/my_like_dislike.php:154
+msgid "You have disliked video"
+msgstr ""
+
+#: includes/modules/social/youtube/my_like_dislike.php:190
+msgid "Sing with google account to rate this Video"
+msgstr ""
+
+#: includes/modules/social/youtube/options.php:9
+msgid "Google  API Key"
+msgstr ""
+
+#: includes/modules/social/youtube/options.php:12
+msgid "Google API Key get from http://console.goolge.com/"
+msgstr ""
+
+#: includes/modules/social/youtube/options.php:16
+msgid "Show Metadata"
+msgstr ""
+
+#: includes/modules/social/youtube/options.php:65
+msgid "Statistics Data Color"
+msgstr ""
+
+#: includes/modules/social/youtube/options.php:145
+msgid ""
+"Enter $ and channel id.Enter / and playlist id.Enter # and search term."
+"Enter ?latitude/longitude/distance(in km)/term .Enter multiple ids separetd "
+"by comma."
+msgstr ""
+
+#: includes/modules/social/youtube/options.php:147
+msgid "Call Api with max results parametar,Google API max results is 50 posts."
+msgstr ""
+
+#: includes/views/admin/pages/edit.php:3
+msgid "Name your SoGrid"
+msgstr ""
+
+#: includes/views/admin/pages/edit.php:12
+msgid "SoGrid with this id don't exist."
+msgstr ""
+
+#: includes/views/admin/pages/edit.php:82
+msgid "Cancel"
+msgstr ""
+
+#: includes/views/admin/pages/edit.php:84
+msgid "Enter title Here"
+msgstr ""
+
+#: includes/views/admin/pages/edit.php:95
+msgid "Social SoGrid Options"
+msgstr ""
+
+#: includes/views/admin/pages/edit.php:127
+msgid "Publish SoGrid"
+msgstr ""
+
+#: includes/views/admin/pages/edit.php:131
+msgid "Preview"
+msgstr ""
+
+#: includes/views/admin/pages/edit.php:132
+msgid "Save SoGrid"
+msgstr ""
+
+#: includes/views/admin/pages/edit.php:145
+msgid "General SoGrid Options"
+msgstr ""
+
+#: includes/views/admin/pages/edit.php:225
+msgid "Active Social Networks"
+msgstr ""
+
+#: includes/views/admin/pages/edit.php:268
+msgid "Preview SoGrid!"
+msgstr ""
+
+#: includes/views/admin/pages/index.php:27
+msgid "Add New"
+msgstr ""
+
+#: includes/views/admin/pages/index.php:38
+msgid "Step by step instructions"
+msgstr ""
+
+#: includes/views/admin/pages/index.php:40
+msgid "1. Click the "
+msgstr ""
+
+#: includes/views/admin/pages/index.php:40
+msgid "\"Add New\""
+msgstr ""
+
+#: includes/views/admin/pages/index.php:40
+msgid "button"
+msgstr ""
+
+#: includes/views/admin/pages/index.php:41
+msgid "2. Name your sogrid and click"
+msgstr ""
+
+#: includes/views/admin/pages/index.php:41
+msgid "\"Social Options\""
+msgstr ""
+
+#: includes/views/admin/pages/index.php:41
+msgid "to enable some social networks."
+msgstr ""
+
+#: includes/views/admin/pages/index.php:42
+msgid "3. Add options to each social network"
+msgstr ""
+
+#: includes/views/admin/pages/index.php:43
+msgid "4. Save your soGrid"
+msgstr ""
+
+#: includes/views/admin/pages/index.php:43
+msgid "\"Save SoGrid\""
+msgstr ""
+
+#: includes/views/admin/pages/index.php:44
+msgid "4. Enjoy"
+msgstr ""
+
+#: includes/views/admin/pages/options.php:21
+msgid "SoGrid Options"
+msgstr ""
+
+#: includes/views/admin/pages/options.php:32
+msgid ""
+"To enable Youtube like / dislike video option you neeed a client id and "
+"cilent secret from "
+msgstr ""
+
+#: includes/views/admin/pages/options.php:34
+msgid "In redirect url please add this url :"
+msgstr ""
+
+#: includes/views/admin/pages/options.php:37
+#: includes/views/admin/pages/options.php:69
+msgid "Update Options"
+msgstr ""
+
+#: includes/views/admin/pages/preview.php:14
+msgid "Preview - "
+msgstr ""
+
+#: includes/views/admin/pages/preview.php:52
+msgid "SoGrid don't exists !"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:13
+#: includes/views/admin/pages/search_ids.php:37
+msgid "Please add instagram username"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:17
+#: includes/views/admin/pages/search_ids.php:24
+#: includes/views/admin/pages/search_ids.php:93
+#: includes/views/admin/pages/search_ids.php:140
+#: includes/views/admin/pages/search_ids.php:147
+msgid "No result"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:20
+#: includes/views/admin/pages/search_ids.php:143
+msgid "Error API Call"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:26
+#: includes/views/admin/pages/search_ids.php:40
+#: includes/views/admin/pages/search_ids.php:66
+#: includes/views/admin/pages/search_ids.php:81
+#: includes/views/admin/pages/search_ids.php:122
+#: includes/views/admin/pages/search_ids.php:149
+msgid "Result is found"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:49
+msgid "Please add instagram latitude and longitude"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:61
+msgid "Please add twiiter screename"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:75
+msgid "Please add facebook user ID"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:87
+msgid "Please add facebook name"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:116
+msgid "About"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:117
+#: includes/views/admin/pages/search_ids.php:347
+msgid "Description"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:118
+msgid "Gender"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:119
+msgid "First Name"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:120
+msgid "Last Name"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:131
+msgid "Please add your Google Api key"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:135
+msgid "Please add google"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:156
+msgid "Network don't exists"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:207
+msgid "Link"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:208
+msgid "Count"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:215
+#: includes/views/admin/pages/search_ids.php:287
+#: includes/views/admin/pages/search_ids.php:356
+#: includes/views/admin/pages/search_ids.php:432
+msgid "Total results "
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:223
+msgid "Album link"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:238
+msgid "Get facebook user ID"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:243
+msgid "Facebook name"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:247
+#: includes/views/admin/pages/search_ids.php:261
+#: includes/views/admin/pages/search_ids.php:331
+#: includes/views/admin/pages/search_ids.php:405
+#: includes/views/admin/pages/search_ids.php:496
+#: includes/views/admin/pages/search_ids.php:572
+msgid "Get Ids"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:251
+msgid "Get user albums"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:257
+msgid "Facebook user id"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:270
+msgid "Google Plus"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:275
+#: includes/views/admin/pages/search_ids.php:344
+msgid "Image"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:277
+msgid "Object Type"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:278
+msgid "Display Name"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:279
+msgid "URL"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:327
+msgid "Search persons by term"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:346
+msgid "Title"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:401
+msgid "Search channel by username"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:422
+msgid "Mode"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:423
+msgid "Slug"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:424
+msgid "Subscribers Count"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:425
+msgid "Members Count"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:487
+msgid "Get user lists"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:492
+msgid "Twitter user screen name"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:507
+msgid "Get user ids"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:514
+msgid "Full name"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:519
+msgid "Username"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:542
+msgid "Get locations ids"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:568
+msgid "Instagram name"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:580
+msgid "Latitude"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:583
+msgid "Longitude"
+msgstr ""
+
+#: includes/views/admin/pages/search_ids.php:593
+msgid "Get Location Ids"
+msgstr ""
+
+#: includes/views/elements/my_network.php:25
+#: includes/views/elements/my_network.php:37
+msgid "Get Instagram Access Token"
+msgstr ""
+
+#: includes/views/elements/my_network.php:29
+msgid "You don't have instagram access token please click link below."
+msgstr ""
+
+#: includes/views/elements/my_network.php:31
+msgid "To get access token automaticaly please add to your instagram client "
+msgstr ""
+
+#: includes/views/elements/my_network.php:33
+msgid "Redirect Uri"
+msgstr ""
+
+#: includes/views/elements/my_network.php:34
+msgid "Uncheck option in edit client "
+msgstr ""
+
+#: includes/views/elements/my_network.php:38
+msgid "Get Access Token"
+msgstr ""
+
+#: includes/views/elements/my_network.php:41
+msgid "Instagram Access code is valid."
+msgstr ""
